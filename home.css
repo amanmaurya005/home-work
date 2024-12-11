@@ -1,0 +1,27 @@
+.work
+{
+    color: black;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 300;
+    border: 10px solid black;
+
+    
+}
+.home
+{
+    color: black;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 300;
+    border: 10px solid black;
+    width: 400px;
+}
